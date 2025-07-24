@@ -1,7 +1,7 @@
 ### Hi there 👋
-I am a Master’s student in Software Engineering at San Jose State University (SJSU). I am passionate about programming, problem-solving, and building scalable software solutions. Previously, I worked as an Associate Software Engineer at UST Globals, where I gained hands-on experience in full-stack web development.
+I am a Master’s student in Software Engineering at San Jose State University (SJSU). I am passionate about programming, problem-solving, and building scalable software solutions. Previously, I worked as an SDE 2 at UST Globals, where I gained hands-on experience in full-stack web development.
 
-With a background in Computer Science and Engineering from SOA University, I have developed a deep technical acumen and a keen interest in Java full-stack development, cloud technologies, and database management. My academic and professional experiences have equipped me with the skills to design, develop, and optimize web applications with end-to-end functionality.
+With a background in Computer Science and Engineering from SOA University, I have developed a deep technical expertise and a keen interest in full-stack Java development, cloud technologies, and database management. My academic and professional experiences have equipped me with the skills to design, develop, and optimize web applications with end-to-end functionality.
 
 Skills:  
 • Languages: Java, C, Kotlin.  
